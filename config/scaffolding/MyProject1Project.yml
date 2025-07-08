@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: MyProject1Project
+  gitServerName: pt
+  gitUrl: https://github.com/Pratibha0224
+  gitUsername: Pratibha0224
+  gitBranch: main
